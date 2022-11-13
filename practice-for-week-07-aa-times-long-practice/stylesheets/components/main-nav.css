@@ -1,0 +1,16 @@
+/* Your code here */
+
+.main-nav{
+    line-height: 12px;
+    margin-top:2px;
+}
+
+.main-nav-ul{
+    display: flex;
+    justify-content: center;
+}
+
+.main-nav-li {
+    padding:5px;
+    line-height:20px;
+}
